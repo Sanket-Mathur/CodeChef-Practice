@@ -9,6 +9,7 @@ AUG20B: CHEFWARS, CRDGAME3, LINCHESS, SKMP(Partially)
 COOK121B: CHEFNWRK, POLYREL  
 LTIME87B: MODEFREQ  
 SEPT20B: TREE2, ADAMAT  
+OCT20B: CVDRUN, CHEFEZQ, POSAND, REPLESX  
 Rest all are solved after they were included to the PRACTICE section  
 
 ### User Details
