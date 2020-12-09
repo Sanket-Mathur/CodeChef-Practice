@@ -1,18 +1,21 @@
-days = {'monday':1, 'tuesday':2, 'wednesday':3, 'thursday':4, 'friday':5, 'saturday':6, 'sunday':7}
+days = {'monday':0, 'tuesday':1, 'wednesday':2, 'thursday':3, 'friday':4, 'saturday':5, 'sunday':6}
 
 for _ in range(int(input())):
     S, E, L, R = input().split()
     L = int(L)
     R = int(R)
+    
     min_days = (days[E] - days[S] + 8) % 7
-    c = R+1 
-    for i in range(L, R+1):
-        if i % 7 == min_days:
-            c = i 
+
+    possible = False
+    while min_days <= R:
+        if min_days >= L:
+            possible = True
+            if min_days+7 <= R:
+                print('many')
+            else:
+                print(min_days)
             break
-    if c > R:
+        min_days += 7
+    if not possible:
         print('impossible')
-    elif c+7 <= R:
-        print('many')
-    else:
-        print(c)
