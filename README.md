@@ -13,9 +13,10 @@ OCT20B: CVDRUN, CHEFEZQ, POSAND, REPLESX
 NOV20B: ADADISH, RESTORE  
 LTIME90B: BEGGASOL, GASOLINE, XORCOMP(Partially)  
 DEC20B: VACCINE1, EVENPSUM, VACCINE2, POSPREFS, HXOR  
+COOK125B: ATTENDU, SDSTRING, CATHIEF  
 Rest all are solved after they were included to the PRACTICE section  
 
 ### User Details
 Username: [sanket_mat](https://www.codechef.com/users/sanket_mat)  
-Rating: 1709 (Highest Rating 1709)  
+Rating: 1669 (Highest Rating 1709)  
 Stars: 3  
