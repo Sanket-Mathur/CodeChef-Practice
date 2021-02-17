@@ -1,6 +1,6 @@
 # CodeChef-Practice
 Solutions of Practice as well as the Contest questions (that I've solved) from CodeChef  
-This repository contains 350+ solutions  
+This repository contains 400+ solutions  
 
 ### Problem Classification
 LTIME85B: INCRDEC(Partially)  
@@ -17,9 +17,10 @@ COOK125B: ATTENDU, SDSTRING, CATHIEF
 COFDEC20: COFDQ1  
 RTCG2020: RTCG002, RTCG003, RTCG001, RTCG004  
 LTIME91B: SEDARR, THREE, SWAP10HG, HRSCPMTR(Partially)  
+FEB21B: MAXFUN, FROGS, TEAMNAME, PRIGAME(Partially)  
 Rest all are solved after they were included to the PRACTICE section  
 
 ### User Details
 Username: [sanket_mat](https://www.codechef.com/users/sanket_mat)  
-Rating: 1669 (Highest Rating 1709)  
+Rating: 1647 (Highest Rating 1709)  
 Stars: 3  
