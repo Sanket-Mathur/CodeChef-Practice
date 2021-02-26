@@ -18,6 +18,7 @@ COFDEC20: COFDQ1
 RTCG2020: RTCG002, RTCG003, RTCG001, RTCG004  
 LTIME91B: SEDARR, THREE, SWAP10HG, HRSCPMTR(Partially)  
 FEB21B: MAXFUN, FROGS, TEAMNAME, PRIGAME(Partially)  
+CCRC21B: BMI, TOTSCR, CHEFPAT, ISREC  
 Rest all are solved after they were included to the PRACTICE section  
 
 ### User Details
