@@ -21,9 +21,10 @@ FEB21B: MAXFUN, FROGS, TEAMNAME, PRIGAME(Partially)
 CCRC21B: BMI, TOTSCR, CHEFPAT, ISREC  
 LTIME93B: COPRIMEX, PALPALS  
 MARCH21B: IRSTXOR, SPACEARR, PAPARAZI  
+LTIME94B: DATE1, RACINGEN, LUNCHTIM  
 Rest all are solved after they were included to the PRACTICE section  
 
 ### User Details
 Username: [sanket_mat](https://www.codechef.com/users/sanket_mat)  
-Rating: 1674 (Highest Rating 1709)  
+Rating: 1742 (Highest Rating 1742)  
 Stars: 3  
