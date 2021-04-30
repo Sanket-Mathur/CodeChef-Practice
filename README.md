@@ -23,9 +23,10 @@ LTIME93B: COPRIMEX, PALPALS
 MARCH21B: IRSTXOR, SPACEARR, PAPARAZI  
 LTIME94B: DATE1, RACINGEN, LUNCHTIM  
 APRIL21B: SDICE, KAVGMAT(Partially), MEXSTR(Partially)  
+LTIME95B: CCHEAVEN, ARRROT, BENCHP  
 Rest all are solved after they were included to the PRACTICE section  
 
 ### User Details
 Username: [sanket_mat](https://www.codechef.com/users/sanket_mat)  
-Rating: 1684 (Highest Rating 1742)  
+Rating: 1736 (Highest Rating 1742)  
 Stars: 3  
