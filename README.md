@@ -29,5 +29,5 @@ Rest all are solved after they were included to the PRACTICE section
 
 ### User Details
 Username: [sanket_mat](https://www.codechef.com/users/sanket_mat)  
-Rating: 1717 (Highest Rating 1742)  
+Rating: 1610 (Highest Rating 1742)  
 Stars: 3  
