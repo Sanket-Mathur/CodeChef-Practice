@@ -25,9 +25,10 @@ LTIME94B: DATE1, RACINGEN, LUNCHTIM
 APRIL21B: SDICE, KAVGMAT(Partially), MEXSTR(Partially)  
 LTIME95B: CCHEAVEN, ARRROT, BENCHP  
 MAY21B: XOREQUAL, TCTCTOE, MODEQ, ISS(Partially)  
+LTIME99B: KMAX2, JAG, CROSBLK  
 Rest all are solved after they were included to the PRACTICE section  
 
 ### User Details
 Username: [sanket_mat](https://www.codechef.com/users/sanket_mat)  
-Rating: 1610 (Highest Rating 1742)  
+Rating: 1735 (Highest Rating 1742)  
 Stars: 3  
